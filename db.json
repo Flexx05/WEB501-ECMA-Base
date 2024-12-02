@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 19,
+      "name": "Ô tô",
+      "image": "1234regdfg",
+      "price": "1500",
+      "category": "DELL"
+    },
+    {
+      "name": "Ô tô",
+      "image": "1234regdfg",
+      "price": "1500",
+      "id": 45
+    },
+    {
+      "name": "Ô tô",
+      "image": "1234regdfg",
+      "price": "1500",
+      "id": 46
+    },
+    {
+      "name": "Ô tô",
+      "image": "1234regdfg",
+      "price": "1500",
+      "category": "DELL",
+      "id": 141
+    }
+  ],
+  "users": [
+    {
+      "email": "linhlmph51397@gmail.com",
+      "password": "$2a$10$yVUNgtPFjzAIZwf5R2yrReLSbPIveoibOlJRHek/027K70puDHy3S",
+      "id": 1
+    },
+    {
+      "email": "mlinhalone@gmail.com",
+      "password": "$2a$10$q9mEYWRJsUn65xdWhupJsOQvnXKHahiVz9clEHjeccErwlWyz.yve",
+      "id": 2
+    }
+  ]
+}
